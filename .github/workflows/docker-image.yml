@@ -31,7 +31,7 @@ jobs:
             context: .
             push: true
             tags: |
-                ghcr.io/moses/getting-started:latest
-                ghcr.io/moses/getting-started:${{github.sha}}
+                ghcr.io/mousa96/getting-started:latest
+                ghcr.io/mousa96/getting-started:${{github.sha}}
 
                 
